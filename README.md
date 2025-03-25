@@ -34,3 +34,6 @@ I am a PhD student at Universidad Nacional Autónoma de México, specializing in
 [![](https://visitcount.itsvg.in/api?id=NellyJazminPC&icon=0&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=NellyJazminPC&show_icons=true&theme=algolia)
