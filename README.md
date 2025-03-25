@@ -33,9 +33,4 @@ I am a PhD student at Universidad Nacional Autónoma de México, specializing in
 
 [![](https://visitcount.itsvg.in/api?id=NellyJazminPC&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<p align="center">Total visitors till now </p>
-<p align="center">
-  <img src="https://profile-counter.glitch.me/NellyJazminPC/count.svg" alt="Visitor Count">
-</p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
